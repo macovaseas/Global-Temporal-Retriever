@@ -2,10 +2,12 @@
 
 ![Nissan skyline](assets/skyline.png)
 
-> **Official implementation for Global Temporal Retriever (GTR)**: *"This repository contains the official PyTorch implementation of the **(GTR)** — a lightweight, plug-and-play module designed to empower any multivariate time series forecasting (MTSF) model with the ability to capture global periodic patterns far beyond the fixed look-back window.*
+> "The GT-R is not a supercar for a select few; it is a supercar for everyone, built to be enjoyed anywhere, anytime, by anyone." --**Nissan skyline**
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10+-orange.svg)](https://pytorch.org/)
+
+This repository contains the official PyTorch implementation of the **(GTR)** — a lightweight, plug-and-play module designed to empower any multivariate time series forecasting (MTSF) model with the ability to capture global periodic patterns far beyond the fixed look-back window.
 
 ---
 
