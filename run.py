@@ -13,8 +13,8 @@ parser.add_argument('--random_seed', type=int, default=2024, help='random seed')
 # basic config
 parser.add_argument('--is_training', type=int, required=True, default=1, help='status')
 parser.add_argument('--model_id', type=str, required=True, default='test', help='model id')
-parser.add_argument('--model', type=str, required=True, default='TQNet',
-                    help='model name, options: [TQNet, Informer, Autoformer, ...]')
+parser.add_argument('--model', type=str, required=True, default='GTR',
+                    help='model name, options: [Informer, Autoformer, ...]')
 
 # data loader
 parser.add_argument('--data', type=str, required=True, default='ETTh1', help='dataset type')
